@@ -1,0 +1,6 @@
+data/runs/
+data/dfas
+data/tiny_dfas
+data/.ipynb_checkpoints/
+obj/
+comfa
